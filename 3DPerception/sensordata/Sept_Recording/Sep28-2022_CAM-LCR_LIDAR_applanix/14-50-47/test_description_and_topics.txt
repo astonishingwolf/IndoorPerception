@@ -1,0 +1,8 @@
+TEST_DESCRIPTION:
+Transfe
+
+TOPICS:
+/pylon_camera_node_center/image_rect/compressed
+/rslidar_points_front
+/tf
+/bbox_array
